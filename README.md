@@ -1,6 +1,9 @@
 # Emoji-Dictionary
 
-A list of emoji, description and names.
+A dynamic collection view of emoji, description and names.
+![](https://github.com/Salubrejoe/Emoji-Dictionary/blob/main/First.GIF)
+
+
 This was a fun exercise. Had a template but decided to implement all the elements programmatically.
 You can add your own Emoji and saveTo/loadFrom disk!
 
